@@ -1,0 +1,67 @@
+body {
+  background: #f1f1f1;
+  font-family: "Platypi", serif;
+  background-image: url('../images/fondo.jpg');
+  background-size: cover;
+   background-position: center;
+}
+
+
+.main_title {
+  width: fit-content;
+  margin-inline: auto;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+}
+
+.bg-dark {
+  background-color: #0561bd !important;
+}
+
+form {
+  padding: 15px;
+  color: white;
+  border-radius: 15px;
+}
+
+.card-body {
+  background: #e1e2e1;
+}
+
+.card-img-top {
+  text-align: center;
+  width: 100%;
+  aspect-ratio: 16/9;
+}
+.card-body-contenido {
+  text-align: center;
+}
+#creado {
+  background: #0b2742;
+}
+
+.card {
+  background: transparent !important;
+  border: none !important;
+}
+
+textarea {
+  resize: none;
+}
+#Heart:hover,
+#heart:hover {
+  cursor: pointer;
+}
+
+.btn-primary {
+  color: #fff7f7;
+  background-color:  #B60B0B;
+  border-color: #ffffff;
+}
+
+.btn-primary:hover {
+  background-color: #ffffff ; 
+  color: #000;
+  border-color: #000;
+}
+
