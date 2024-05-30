@@ -1,6 +1,3 @@
-Dejo una imagen para hacer mas facil la revision: https://cloudfront-us-east-1.images.arcpublishing.com/copesa/TXQTG6HRUFCU3LZ6327V5WCYUI.jpg
-
-Tambien como en los desfios anteriores dejo un archivo .env(que se llena con los datos correspondientes) que tiene:
 POSTGRES_USER=
 POSTGRES_PASSWORD=
 POSTGRES_HOST=
